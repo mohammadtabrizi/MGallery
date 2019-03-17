@@ -13,6 +13,6 @@
 # Tried to Use MVVM Design Patteren in Clear Way!
 
 Data is Provided by https://jsonplaceholder.typicode.com
-In First Page list of all items & in Galeery page Photos of each ALbum is available.
+In First Page list of all items & in Gallery page Photos of each Abum is available.
 
 
