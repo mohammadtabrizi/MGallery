@@ -1,0 +1,23 @@
+{
+  "name": "WBCollectionViewLayout",
+  "version": "0.1.0",
+  "summary": "This Controller provides custom layout for Collection View",
+  "description": "This Controller provides 3 type of different layouts for collection view",
+  "homepage": "https://github.com/mwaqasbhati/WBCollectionViewLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mwaqasbhati": "m.waqas.bhati@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/mwaqasbhati/WBCollectionViewLayout.git",
+    "tag": "0.1.0"
+  },
+  "swift_version": "4.0",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WBCollectionViewLayout/Classes/**/*"
+}

@@ -1,0 +1,1 @@
+../../../INSPhotoGallery/INSPhotoGallery/INSPhotoGallery.h

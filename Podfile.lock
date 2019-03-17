@@ -1,0 +1,28 @@
+PODS:
+  - INSPhotoGallery (1.2.7)
+  - WBCollectionViewLayout (0.1.0)
+
+DEPENDENCIES:
+  - INSPhotoGallery
+  - WBCollectionViewLayout (from `https://github.com/mwaqasbhati/WBCollectionViewLayout.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - INSPhotoGallery
+
+EXTERNAL SOURCES:
+  WBCollectionViewLayout:
+    :git: https://github.com/mwaqasbhati/WBCollectionViewLayout.git
+
+CHECKOUT OPTIONS:
+  WBCollectionViewLayout:
+    :commit: eb68819942287690805d939eb81592abb658edb5
+    :git: https://github.com/mwaqasbhati/WBCollectionViewLayout.git
+
+SPEC CHECKSUMS:
+  INSPhotoGallery: a4e698e3d6338d9016328d6747488a2a111d94e2
+  WBCollectionViewLayout: d90b4f2516d14b05c313839c5de3c539ca11ce7e
+
+PODFILE CHECKSUM: 2dfddc99ce5c0ed81a9aca4dd9a257b015b98ddf
+
+COCOAPODS: 1.5.3
